@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
+    title: 'Nerd Girls Book Club',
+    author: 'Jane, Elizabeth, Mary, Catherine, Lydia',
+    description: 'A place for nerds who love books about women.',
+    siteUrl: 'https://nerdgirlsbookclub.com/',
     social: {
-      twitter: 'kylemathews',
+      twitter: 'nerdgirlsbookclub',
     },
   },
   plugins: [
