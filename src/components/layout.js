@@ -4,8 +4,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import { rhythm, scale } from '../utils/typography';
-
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props;
@@ -14,7 +12,7 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1>
+        <h1 className="site-heading">
           <Link
             to="/"
           >
@@ -34,14 +32,15 @@ class Layout extends React.Component {
       );
     }
     return (
-      <div>
-        <header>{header}</header>
-        <main>{children}</main>
-        <footer>
+      <div className="layout">
+        <header className="header">{header}</header>
+        <main className="content">{children}</main>
+        <footer className="footer">
           ©
           {' '}
           {new Date().getFullYear()}
-Nerd Girls Book Club
+          {' '}
+          Nerd Girls Book Club
         </footer>
       </div>
     );

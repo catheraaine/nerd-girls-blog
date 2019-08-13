@@ -1,0 +1,28 @@
+// Font Import
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Special+Elite&display=swap&subset=latin-ext');
+
+// Font Family
+$font--accent: 'Special Elite', Georgia, 'Times New Roman', serif;
+$font--primary: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+body {
+  font-family: $font--primary;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: $font--accent;
+  font-size: 1.5rem;
+}
+
+a {
+  &:link,
+  &:visited {
+    color: $c-link;
+  }
+  &:hover,
+  &:active {
+    text-decoration: none;
+    color: $c-link--hover;
+  }
+}

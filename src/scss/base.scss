@@ -1,2 +1,11 @@
-// variables
+// Settings
+@import 'settings.colors';
+@import 'settings.typography';
 
+// Components
+@import 'components.layout';
+@import 'components.header';
+@import 'components.content';
+@import 'components.footer';
+
+// Utilities
