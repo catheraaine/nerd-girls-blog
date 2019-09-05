@@ -37,6 +37,8 @@
   &__author {
     font-size: 0.8125rem;
     color: lighten($dark, 10%);
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
 
     @media (min-width: $dateMovesRight) {
       text-align: right;
