@@ -11,6 +11,10 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
     const { previous, next } = this.props.pageContext;
+    const authorClasses = post.frontmatter.authorClass ?
+    `post__author post__author--${post.frontmatter.authorClass}`
+     :
+     'post__author';
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -23,9 +27,14 @@ class BlogPostTemplate extends React.Component {
             <h1 className="post__title">
               {post.frontmatter.title}
             </h1>
-            <date className="post__date">
-              {post.frontmatter.date}
-            </date>
+            <div className="post__meta">
+              <p className="post__date">
+                {post.frontmatter.date}
+              </p>
+              <p className={authorClasses}>
+                By {post.frontmatter.authorName}
+              </p>
+            </div>
           </div>
           <hr />
           <main 
@@ -77,6 +86,8 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        authorName
+        authorClass
       }
     }
   }

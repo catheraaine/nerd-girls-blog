@@ -19,17 +19,29 @@ class BlogIndex extends React.Component {
         {/* <Bio /> */}
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug;
+          const authorClasses = node.frontmatter.authorClass ?
+          `listing__author listing__author--${node.frontmatter.authorClass}`
+          :
+          'listing__author';
+
           return (
             <div key={node.fields.slug}>
-              <h3 className="listing__post-title">
+              <h3 className="listing__title">
                 <Link 
                   to={node.fields.slug}
                 >
                   {title}
                 </Link>
               </h3>
-              <date className="listing__post-date">{node.frontmatter.date}</date>
-              <p className="listing__post-description"
+              <div className="listing__meta">
+                <p className="listing__date">
+                  {node.frontmatter.date}
+                </p>
+                <p className={authorClasses}>
+                  By {node.frontmatter.authorName}
+                </p>
+              </div>
+              <p className="listing__description"
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
                 }}
@@ -62,6 +74,8 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            authorName
+            authorClass
           }
         }
       }

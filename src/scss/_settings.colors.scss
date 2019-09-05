@@ -27,12 +27,38 @@ $castle: #696D7D;
 $viridian: #60786D;
 $mist: #FBFEF9;
 
+// keep only what you need, me
+$orange: #b65b36;
+$light-blue: #4e7597;
+$dark-blue: #1F487E;
+$maroon: #8E3B46;
+$gold: #907118;
+$teal: #008080;
+
 // Theme Colors
 $light: $mist;
 $mid: $castle;
 $dark: $abyss;
 $theme: $viridian;
 $accent: $rose;
+
+// People Colors
+$jane: $maroon;
+$elizabeth: #498147;
+$mary: #8D3B72;
+$catherine: $teal;
+$lydia: #7752a5;
+$guest: $dark-blue;
+
+$personas: (
+  jane: $maroon,
+  elizabeth: #498147,
+  mary: #8D3B72,
+  catherine: $teal,
+  lydia: #7752a5,
+  guest: $dark-blue,
+  all: $theme
+);
 
 // Functional Colors
 $c-main--dark: $dark;
@@ -42,3 +68,14 @@ $c-text--light: $light;
 
 $c-link: $theme;
 $c-link--hover: $dark;
+
+
+// Color Mixin
+
+@mixin color-modifiers {
+  @each $name, $hex in $personas {
+    &--#{$name} {
+      color: $hex;
+    }
+  }
+}

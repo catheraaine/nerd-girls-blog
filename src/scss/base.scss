@@ -1,6 +1,5 @@
 // Settings
 @import 'settings.colors';
-@import 'settings.other-variables';
 @import 'settings.typography';
 
 // Components
@@ -11,4 +10,5 @@
 @import 'components.listing';
 @import 'components.post';
 
-// Utilities
+// Trumps
+@import 'trumps.utilities';

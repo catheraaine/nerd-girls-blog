@@ -1,8 +1,14 @@
 .site-heading {
+  $titleGrowsFontSize: 25rem;
+
   font-family: $font--accent;
   text-transform: lowercase;
   margin-top: 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
+
+  @media (min-width: $titleGrowsFontSize) {
+    font-size: 2rem;
+  }
 
   & a {
     &:link,

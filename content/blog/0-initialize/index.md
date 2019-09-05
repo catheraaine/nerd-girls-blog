@@ -1,6 +1,8 @@
 ---
 title: Our First Post
 date: "2019-08-12"
+authorName: "The Nerd Girls"
+authorClass: "all"
 description: "This is where our first post will be, when we have a first post."
 ---
 ### Subheadings

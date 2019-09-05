@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Nerd Girls Book Club',
-    author: 'Jane, Elizabeth, Mary, Catherine, Lydia',
+    author: 'The Nerd Girls',
     description: 'A place for nerds who love books about women.',
     siteUrl: 'https://nerdgirlsbookclub.com/',
     social: {
