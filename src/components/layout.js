@@ -22,7 +22,7 @@ class Layout extends React.Component {
       );
     } else {
       header = (
-        <h3>
+        <h3 className="site-heading">
           <Link
             to="/"
           >

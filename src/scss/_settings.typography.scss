@@ -16,6 +16,7 @@ h1 {
 }
 
 a {
+  transition: all 250ms ease;
   &:link,
   &:visited {
     color: $c-link;

@@ -1,5 +1,20 @@
 .site-heading {
   font-family: $font--accent;
-  color: $c-main--dark;
   text-transform: lowercase;
+  margin-top: 0;
+  font-size: 2rem;
+
+  & a {
+    &:link,
+    &:visited {
+      text-decoration: none;
+      color: $dark;
+    }
+
+    &:hover,
+    &:active {
+      color: $accent;
+      text-decoration: underline;
+    }
+  }
 }

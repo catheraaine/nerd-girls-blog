@@ -1,0 +1,14 @@
+.listing {
+  &__post-title {
+    margin-bottom: 0.25rem;
+  }
+  &__post-date {
+    font-size: 0.8125rem;
+    color: lighten($dark, 10%);
+    padding: 0;
+    margin: 0;
+  }
+  &__post-description {
+
+  }
+}

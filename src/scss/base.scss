@@ -1,5 +1,6 @@
 // Settings
 @import 'settings.colors';
+@import 'settings.other-variables';
 @import 'settings.typography';
 
 // Components
@@ -7,5 +8,7 @@
 @import 'components.header';
 @import 'components.content';
 @import 'components.footer';
+@import 'components.listing';
+@import 'components.post';
 
 // Utilities

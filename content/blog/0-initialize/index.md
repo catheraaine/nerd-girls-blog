@@ -3,9 +3,6 @@ title: Our First Post
 date: "2019-08-12"
 description: "This is where our first post will be, when we have a first post."
 ---
-
-## Title of My Post
-
 ### Subheadings
 
 This is a paragraph with a [link](url). You can just type a paragraph out like normal. Bold text has **two asterisks** and italic text has *one asterisk*.

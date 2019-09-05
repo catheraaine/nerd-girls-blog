@@ -20,17 +20,25 @@ $c-gray-15: gray(15);
 $c-gray-10: gray(10);
 $c-black: gray(0);
 
-// Theme Colors
+// Named Colors
 $abyss: #191919;
-$mulberry: #540540;
-$castle: #325C66;
-$light: white;
+$rose: #BE4152;
+$castle: #696D7D;
+$viridian: #60786D;
+$mist: #FBFEF9;
+
+// Theme Colors
+$light: $mist;
+$mid: $castle;
+$dark: $abyss;
+$theme: $viridian;
+$accent: $rose;
 
 // Functional Colors
-$c-main--dark: $abyss;
+$c-main--dark: $dark;
 
-$c-text: $abyss;
+$c-text: $dark;
 $c-text--light: $light;
 
-$c-link: $mulberry;
-$c-link--hover: $abyss;
+$c-link: $theme;
+$c-link--hover: $dark;
