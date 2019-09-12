@@ -1,26 +1,30 @@
-.site-heading {
-  $titleGrowsFontSize: 25rem;
+.header {
+  display: flex;
 
-  font-family: $font--accent;
-  text-transform: lowercase;
-  margin-top: 0;
-  font-size: 1.5rem;
+  &__site-heading {
+    $titleGrowsFontSize: 25rem;
 
-  @media (min-width: $titleGrowsFontSize) {
-    font-size: 2rem;
-  }
+    font-family: $font--accent;
+    text-transform: lowercase;
+    margin-top: 0;
+    font-size: 1.5rem;
 
-  & a {
-    &:link,
-    &:visited {
-      text-decoration: none;
-      color: $dark;
+    @media (min-width: $titleGrowsFontSize) {
+      font-size: 2rem;
     }
 
-    &:hover,
-    &:active {
-      color: $accent;
-      text-decoration: underline;
+    & a {
+      &:link,
+      &:visited {
+        text-decoration: none;
+        color: $dark;
+      }
+
+      &:hover,
+      &:active {
+        color: $accent;
+        text-decoration: underline;
+      }
     }
   }
 }

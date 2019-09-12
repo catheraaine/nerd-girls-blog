@@ -3,16 +3,17 @@
 /* eslint-disable react/prefer-stateless-function */
 import React from 'react';
 import { Link } from 'gatsby';
+import Navigation from './navigation';
 
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props;
     const rootPath = `${__PATH_PREFIX__}/`;
-    let header;
+    let heading;
 
     if (location.pathname === rootPath) {
-      header = (
-        <h1 className="site-heading">
+      heading = (
+        <h1 className="header__site-heading">
           <Link
             to="/"
           >
@@ -21,8 +22,8 @@ class Layout extends React.Component {
         </h1>
       );
     } else {
-      header = (
-        <h3 className="site-heading">
+      heading = (
+        <h3 className="header__site-heading">
           <Link
             to="/"
           >
@@ -33,7 +34,10 @@ class Layout extends React.Component {
     }
     return (
       <div className="layout">
-        <header className="header">{header}</header>
+        <header className="header">
+          {heading}
+          <Navigation />
+        </header>
         <main className="content">{children}</main>
         <footer className="footer">
           ©
