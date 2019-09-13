@@ -7,7 +7,7 @@
 $abyss: #191919;
 $rose: #BE4152;
 $castle: #696D7D;
-$viridian: #60786D;
+$viridian: #5a7066;
 $mist: #FBFEF9;
 
 // Theme Colors
@@ -39,6 +39,8 @@ $c-text--light: $light;
 
 $c-link: $theme;
 $c-link--hover: $dark;
+
+$c-header-background: lighten($theme, 50%); 
 
 
 // Color Mixin

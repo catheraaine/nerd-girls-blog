@@ -1,35 +1,50 @@
 .post {
-  $dateMovesRight: 37rem;
+  $center-post-content: $max-text-width;
+
+  max-width: $max-page-width;
+  background-color: white;
 
   &__info-wrapper {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: flex-start;
+    margin: 0;
+    padding: 1rem;
+    background-color: $c-header-background;
 
-    @media (min-width: $dateMovesRight) {
-      flex-direction: row;
-      align-items: baseline;
+    @media (min-width: $center-post-content) {
+      padding: 2rem;
+      justify-content: center;
     }
   }
 
   &__meta {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    min-width: 9rem;
+    min-width: 20rem;
   }
 
   &__title {
     font-family: $font--primary;
     font-size: 2rem;
     box-sizing: border-box;
+    text-transform: capitalize;
     margin: {
-      top: 0.5rem;
+      top: 0;
       bottom: 0;
+    }
+  }
+
+  &__meta,
+  &__title {
+    @media (min-width: $center-post-content) {
+      max-width: $max-text-width;
+      width: 100%;
+      margin: 0 auto;
     }
   }
 
@@ -39,10 +54,6 @@
     color: lighten($dark, 10%);
     margin-top: 0.25rem;
     margin-bottom: 0.25rem;
-
-    @media (min-width: $dateMovesRight) {
-      text-align: right;
-    }
   }
 
   &__date {
@@ -54,9 +65,17 @@
 
   &__author {
     text-transform: capitalize;
-
     @include color-modifiers;
   }
 
-  &__content {}
+  &__content {
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: $max-text-width;
+    padding: 1.5rem;
+
+    @media (min-width: $center-post-content) {
+      margin: 0 auto;
+    }
+  }
 }
