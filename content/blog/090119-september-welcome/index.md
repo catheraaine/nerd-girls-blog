@@ -1,9 +1,9 @@
 ---
-title: September Welcome and October's Book Club
+title: September Welcome
 date: "2019-09-01"
 authorName: "The Nerd Girls"
 authorClass: "all"
-description: "Welcome to the blog! October's Book club read is Aurora Rising."
+description: "Welcome to the blog! October's Book club read is <i>Aurora Rising</i>."
 ---
 ## Welcome to the Blog
 

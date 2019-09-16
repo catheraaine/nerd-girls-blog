@@ -1,4 +1,14 @@
 .content {
   flex: 1 0 auto;
-  // margin-top: auto;
+  margin: {
+    left: $mobile-padding;
+    right: $mobile-padding;
+  }
+
+  @media (min-width: $pad-mobile-edges) {
+    margin: {
+      left: 0;
+      right: 0;
+    }
+  }
 }

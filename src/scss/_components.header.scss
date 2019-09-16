@@ -9,11 +9,11 @@
 
     font-family: $font--accent;
     text-transform: lowercase;
-    margin: 1rem;
+    margin: $mobile-padding;
     margin-top: 0;
     font-size: 1.5rem;
 
-    @media (min-width: $max-page-width) {
+    @media (min-width: $pad-mobile-edges) {
       margin-left: 0;
     }
 

@@ -1,3 +1,6 @@
 $max-text-width: 40rem;
 $max-page-width: 60rem;
 $center-post-content: $max-text-width;
+$mobile-padding: 1rem;
+$mobile-padding-spaces: calc($mobile-padding * 2);
+$pad-mobile-edges: calc($max-page-width + $mobile-padding-spaces);

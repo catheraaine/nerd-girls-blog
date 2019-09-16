@@ -25,7 +25,7 @@
     font-size: 1rem;
     letter-spacing: 0.25rem;
     text-transform: uppercase;
-    margin-right: 1rem;
+    margin-right: $mobile-padding;
     transition: all 200ms ease;
     border-radius: 0.25rem;
 
@@ -34,27 +34,30 @@
       background-color: $theme;
       cursor: pointer;
     }
-
-    @media (min-width: $max-page-width) {
-      margin-right: 0;
-    }
   }
 
   &__list {
     list-style-type: none;
-    padding: 0;
+    padding: 0.5rem;
     margin: 0;
   }
 
   &__item {
+    padding-top: 1rem;
 
+    &:last-of-type {
+      padding-bottom: 0.5rem;
+    }
   }
 
   &__link {
     padding: 0.5rem;
+    padding-right: $mobile-padding;
     transition: all 200ms ease-in-out;
 
-    &:hover {
+    &:hover,
+    &:active {
+      color: $accent;
       padding-right: 1rem;
     }
   }
