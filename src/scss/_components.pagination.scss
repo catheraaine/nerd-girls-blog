@@ -1,0 +1,27 @@
+.pagination {
+  font-family: $font--primary;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  // &__item {}
+
+  &__link {
+    transition: all 200ms ease;
+    &:link,
+    &:visited {
+      color: $theme;
+      font-style: italic;
+      text-decoration: none;
+    }
+
+    &:hover,
+    &:active {
+      color: $accent;
+      font-style: normal;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+}

@@ -1,8 +1,6 @@
 /* eslint-disable */
 import React from 'react';
 import { Link, graphql } from 'gatsby';
-
-// import Bio from '../components/bio';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 
@@ -41,23 +39,22 @@ class BlogPostTemplate extends React.Component {
             dangerouslySetInnerHTML={{ __html: post.html }}   
           />
         </article>
-        <hr/>
-        <ul>
-          <li>
+        <ul className="pagination">
+          <li className="pagination__item">
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+              <Link className="pagination__link" to={previous.fields.slug} rel="prev">
                 ←
                 {' '}
                 {previous.frontmatter.title}
               </Link>
             )}
           </li>
-          <li>
+          <li className="pagination__item">
             {next && (
-              <Link to={next.fields.slug} rel="next">
+              <Link className="pagination__link" to={next.fields.slug} rel="next">
                 {next.frontmatter.title}
                 {' '}
-→
+                →
               </Link>
             )}
           </li>
