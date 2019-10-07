@@ -4,9 +4,6 @@ module.exports = {
     author: 'The Nerd Girls',
     description: 'A place for nerds who love books about women.',
     siteUrl: 'https://nerdgirlsbookclub.com/',
-    social: {
-      twitter: 'nerdgirlsbookclub',
-    },
   },
   plugins: [
     {
