@@ -1,19 +1,19 @@
 ---
-title: October Welcome
-date: "2019-10-01"
+title: September Welcome
+date: "2019-09-01"
 authorName: "The Nerd Girls"
 authorClass: "all"
 description: "Welcome to the blog! October's Book club read is <i>Aurora Rising</i>."
 ---
 ## Welcome to the Blog
 
-Hello Reader! Welcome to the Nerd Girls Book Club Blog! We are so excited you're here. Our official launch date is November 1, 2019. Join our monthly book club, dive deep on our favorite reads, and follow along with our bookish fun.
+Hello Reader! Welcome to the Nerd Girls Book Club Blog! We are so excited you're here. Our official launch date is October, 2019. Join our monthly book club, dive deep on our favorite reads, and follow along with our bookish fun.
 
-## November's Book Club Pick
+## October's Book Club Pick
 
-!["Aurora Rising" cover for November's book pick](aurora-102019.png)
+!["Aurora Rising" cover for October's book pick](aurora-102019.png)
 
-November's book club read is [_Aurora Rising_](https://www.goodreads.com/book/show/30075662-aurora-rising) by Aime Kaufman and Jay Kristoff. From [Penguin Random House](https://www.penguinrandomhouse.com/books/548791/aurora-rising-by-amie-kaufman-and-jay-kristoff/9781524720964/):
+October's book club read is [_Aurora Rising_](https://www.goodreads.com/book/show/30075662-aurora-rising) by Aime Kaufman and Jay Kristoff. From [Penguin Random House](https://www.penguinrandomhouse.com/books/548791/aurora-rising-by-amie-kaufman-and-jay-kristoff/9781524720964/):
 
 <blockquote>
 
