@@ -25,7 +25,7 @@ class BlogIndex extends React.Component {
           'listing__author';
 
           return (
-            <div key={node.fields.slug}>
+            <div className="listing" key={node.fields.slug}>
               <h3 className="listing__title">
                 <Link 
                   to={node.fields.slug}

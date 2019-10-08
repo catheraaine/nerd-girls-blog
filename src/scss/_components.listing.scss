@@ -1,4 +1,9 @@
 .listing {
+  margin: {
+    left: $mobile-padding;
+    right: $mobile-padding;
+  }
+
   &__title {
     margin-bottom: 0;
     font-size: 1.5rem;
