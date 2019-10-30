@@ -1,19 +1,25 @@
 ---
-title: October Welcome
-date: "2019-10-01"
+title: November Welcome
+date: "2019-11-01"
 authorName: "The Nerd Girls"
 authorClass: "all"
 description: "Welcome to the blog! November's Book club read is <i>Aurora Rising</i>."
 ---
 ## Welcome to the Blog
 
-Hello Reader! Welcome to the Nerd Girls Book Club Blog! We are so excited you're here. Our official launch date is November 6, 2019. Join our monthly book club, dive deep on our favorite reads, and follow along with our bookish fun.
+Hello Reader! Welcome to the Nerd Girls Book Club Blog! We are so excited you're here. Join our monthly book club, dive deep on our favorite reads, and follow along with our bookish fun.
+
+November is a month of fall colors and giving thanks here in the U.S., and we'll start off by remembering characters who have left a meaningful impact on us. Later in the month, Jane goes all in on a murder mystery, _Where the Crawdads Sing_.
+
+Join the discussion on [Facebook](https://www.facebook.com/nerdgirlsbookclub) and follow us on Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).
 
 ## November's Book Club Pick
 
 !["Aurora Rising" cover for November's book pick](aurora-102019.png)
 
-November's book club read is [_Aurora Rising_](https://www.goodreads.com/book/show/30075662-aurora-rising) by Aime Kaufman and Jay Kristoff. From [Penguin Random House](https://www.penguinrandomhouse.com/books/548791/aurora-rising-by-amie-kaufman-and-jay-kristoff/9781524720964/):
+November's book club pick is [_Aurora Rising_](https://www.goodreads.com/book/show/30075662-aurora-rising) by Amie Kaufman and Jay Kristoff. On the third Wednesday of every month, we'll post our thoughts in a mini-review post. Pick up a copy of _Aurora Rising_ and read along with us.
+
+From [Penguin Random House](https://www.penguinrandomhouse.com/books/548791/aurora-rising-by-amie-kaufman-and-jay-kristoff/9781524720964/):
 
 <blockquote>
 
@@ -33,7 +39,5 @@ November's book club read is [_Aurora Rising_](https://www.goodreads.com/book/sh
 </blockquote>
 
 We look forward to taking this galactic journey with you! ❤
-
-xoxo
 
 The Nerd Girls
