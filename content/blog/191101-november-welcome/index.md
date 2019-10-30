@@ -15,7 +15,7 @@ Join the discussion on [Facebook](https://www.facebook.com/nerdgirlsbookclub) an
 
 ## November's Book Club Pick
 
-!["Aurora Rising" cover for November's book pick](aurora-102019.png)
+!["Aurora Rising" cover for November's book pick](aurora-112019.png)
 
 November's book club pick is [_Aurora Rising_](https://www.goodreads.com/book/show/30075662-aurora-rising) by Amie Kaufman and Jay Kristoff. On the third Wednesday of every month, we'll post our thoughts in a mini-review post. Pick up a copy of _Aurora Rising_ and read along with us.
 
