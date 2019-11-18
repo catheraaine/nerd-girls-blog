@@ -23,7 +23,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    min-width: 20rem;
+    @media (min-width: $center-post-content) {
+      min-width: 20rem;
+    }
   }
 
   &__title {

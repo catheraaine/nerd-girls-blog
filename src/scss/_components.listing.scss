@@ -1,4 +1,7 @@
 .listing {
+  $listingGrowsFontSize: 30.125rem;
+
+  min-width: 80%;
   margin: {
     left: $mobile-padding;
     right: $mobile-padding;
@@ -6,7 +9,12 @@
 
   &__title {
     margin-bottom: 0;
-    font-size: 1.5rem;
+    margin-top: 1rem;
+    font-size: 1.25rem;
+
+    @media (min-width: $listingGrowsFontSize) {
+      font-size: 1.5rem;
+    }
   }
 
   &__meta {
