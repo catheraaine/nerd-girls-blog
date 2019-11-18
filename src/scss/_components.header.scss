@@ -2,7 +2,8 @@
   display: flex;
   background-color: white;
   justify-content: space-between;
-  align-items: baseline;
+  margin-bottom: 1rem;
+  min-height: 3em;
 
   &__site-heading {
     $titleGrowsFontSize: 30.125rem;
