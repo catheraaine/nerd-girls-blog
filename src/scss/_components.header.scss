@@ -1,13 +1,19 @@
 .header {
+  $titleGrowsFontSize: 30.125rem;
+
   display: flex;
   background-color: white;
   justify-content: space-between;
   margin-bottom: 1rem;
   min-height: 3em;
 
-  &__site-heading {
-    $titleGrowsFontSize: 30.125rem;
+  margin-top: 1rem;
 
+  @media (min-width: $titleGrowsFontSize) {
+    margin-top: 2rem;
+  }
+
+  &__site-heading {
     font-family: $font--accent;
     text-transform: lowercase;
     margin: $mobile-padding;
