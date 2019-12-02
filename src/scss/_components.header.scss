@@ -16,12 +16,12 @@
   &__site-heading {
     font-family: $font--accent;
     text-transform: lowercase;
-    margin: $mobile-padding;
+    margin-left: $mobile-padding;
     margin-top: 0;
     font-size: 1.5rem;
 
-    @media (min-width: $pad-mobile-edges) {
-      margin-left: 0;
+    @media (min-width: 62.5rem) {
+      margin: 0;
     }
 
     @media (min-width: $titleGrowsFontSize) {

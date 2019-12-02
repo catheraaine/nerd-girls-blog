@@ -29,6 +29,10 @@
     transition: all 200ms ease;
     border-radius: 0.25rem;
 
+    @media (min-width: 62.5rem) {
+      margin-right: 0;
+    }
+
     &:hover {
       color: white;
       background-color: $theme;
