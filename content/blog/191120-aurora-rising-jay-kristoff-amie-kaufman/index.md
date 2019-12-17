@@ -6,11 +6,11 @@ authorClass: "all"
 description: "This month's book club read is a YA SciFi Ensemble Space Adventure The Nerd Girls generally adored. Below, read our individual thoughts about the first book in Amie Kaufman and Jay Kristoff's \"Aurora Cycle\" series."
 ---
 
+![A photo of the cover of Aurora Rising](aurora-112019.png)
+
 [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) is a YA SciFi Ensemble Space Adventure The Nerd Girls generally adored. Below, read our individual thoughts about the first book in Amie Kaufman and Jay Kristoff's *Aurora Cycle* series.
 
 **Warning, Here Be Spoilers.**
-
-![Spoiler Graphic](spoiler3.png)
 
 <h2 class="utl-color--jane">Jane</h2>
 
@@ -57,8 +57,6 @@ I have to be honest, I did not expect to like *Aurora Rising* as much as I did. 
 For a book with an ensemble cast, it sure packs a punch with character development. Kaufman and Kristoff give us glimpses of every character’s perspective, and even when those glimpses are short you get a good sense of who they are (and maybe fall in love with them a little bit). Combine that with a focus on friendship (over romance!) and the fun of a caper, and I was hooked.
 
 I’m really looking forward to the next installment in this series.
-
-![A photo of the cover of Aurora Rising](aurora-112019.png)
 
 ---
 
