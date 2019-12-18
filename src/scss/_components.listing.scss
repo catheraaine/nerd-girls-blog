@@ -7,6 +7,11 @@
     right: $mobile-padding;
   }
 
+  @media (min-width: 62.5rem) {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   &__title {
     margin-bottom: 0;
     font-size: 1.25rem;
