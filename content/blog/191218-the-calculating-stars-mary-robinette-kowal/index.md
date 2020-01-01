@@ -1,5 +1,5 @@
 ---
-title: "December Review: The Calculating Stars"
+title: "December Review: \"The Calculating Stars\""
 date: "2019-12-18"
 authorName: "Mary"
 authorClass: "mary"
