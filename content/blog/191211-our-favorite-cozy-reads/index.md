@@ -1,5 +1,5 @@
 ---
-title: Our Favorite Cozy Reads
+title: "Our Favorite Cozy Reads"
 date: "2019-12-11"
 authorName: "The Nerd Girls"
 authorClass: "all"
