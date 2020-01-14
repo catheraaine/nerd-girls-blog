@@ -5,17 +5,23 @@ authorName: "Catherine"
 authorClass: "catherine"
 description: "January's review is a dark distortion of our favorite escapist themes with Leigh Bardugo's \"Ninth House\". This post contains full spoilers of the novel, read at your own risk."
 ---
+![ninth house cover](ninth-house-012020.png)
 
 <blockquote class="utl-blockquote--catherine">“Mors irrumat omnia. Death fucks us all.”</blockquote>
 
 **Content Warning: This book includes graphic depictions of rape, sexual assault, and drug use.**
 
 Title: *Ninth House*
+
 Author: Leigh Bardugo
-Published: August 2018, G.P. Putnam's Sons
-Genre: Adult Fiction, Fantasy, Mystery
+
+Published: October 8th 2019, Flatiron Books
+
+Genre: Adult, Fantasy, Mystery, Fiction
 
 <span class="utl-color--catherine">[Leigh Bardugo](https://www.leighbardugo.com/)</span>,  fiction author, hero, queen, *goddess*, has done it again. The brilliant mind behind some of my favorite characters in YA Fantasy (<span class="utl-color--catherine">[Nikolai Lantsov, anyone?](https://www.goodreads.com/book/show/36307634-king-of-scars)</span>) has written a debut adult novel, a ghost story, <span class="utl-color--catherine">[*Ninth House*](https://www.goodreads.com/book/show/43263680-ninth-house)</span>.
+
+![here be spoilers](spoiler1.png)
 
 *Ninth House* is the story of what realistic magic would look like in a cynical view of today's modern age. On the surface, *Ninth House* feels made for adult fans of *Harry Potter*. A girl is chosen to attend magical college, despite her own meager past. However, instead of being rescued from the closet under the stairs by a friendly half-giant, Alex is pulled from her rock bottom and used as a pawn in the same world you and I live in: a greedy, capitalistic society that consumes all it can from the people of the Earth and gives nothing back.
 
@@ -29,9 +35,9 @@ Galaxy “Alex” Stern is a fighter. There’s action from page one; when we fi
 
 Darlington’s chapters offer a nice alternative viewpoint. Darlington *does* love magic and *does* get to be the golden boy with the perfect friends and the huge house with rich family. But even Darlington (and I adore Leigh Bardugo for this), has a deeply troubled life and a complicated relationship with his parents. These two make quite a pair; Alex feels like a disappointment, Darlington feels cheated out of a protege.
 
-Urban fantasy has a bad rap for being too-sweet brain candy with trope sprinkles. Leigh Bardugo’s *Ninth House* challenges this escapist genre with something dark, cynical, and superbly real. Yes, Alex was given an opportunity—an opportunity to dig herself out of a terrible situation and work hard and attend school and to do more than simply *survive*. That's pretty magical to me.
+Urban fantasy has a bad rap for being too-sweet brain candy with trope sprinkles. Leigh Bardugo’s *Ninth House* challenges this escapist genre with something dark, cynical, and superbly real. Yes, Alex was given an opportunity–an opportunity to dig herself out of a terrible situation and work hard and attend school and to do more than simply *survive*. That's pretty magical to me.
 
-I'm giving *Ninth House* a full 5/5, a rare thing. Just read it.
+I'm giving *Ninth House* a full 5/5, a rare thing.
 
 <blockquote class="utl-blockquote--catherine">“Peace was like any high. It couldn't last. It was an illusion, something that could be interrupted in a moment and lost forever.”</blockquote>
 

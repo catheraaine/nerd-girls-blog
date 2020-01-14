@@ -15,8 +15,11 @@ This month Jane shares a deep discussion on Delia Owens's 'Where the Crawdads Si
 ## Summary
 
 Title: *Where the Crawdads Sing*
+
 Author: Delia Owens
+
 Published: August 2018, G.P. Putnam's Sons
+
 Genre: Coming-Of-Age Fiction, Mystery
 
 When the star quarterback from a couple years back “falls” off the lookout tower in October of 1969, the small coastal North Carolina town of Barkley Cove is left to find out if this was a crime, but there’s little evidence and even fewer suspects. No one really had a problem with Chase Andrews. He wasn’t loved by everyone, sure, but who would want to kill him? The town immediately starts humming about one person who may have done it, after all based on rumors in town the Marsh Girl was responsible for all sorts of nefarious things.

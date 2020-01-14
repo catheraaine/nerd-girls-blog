@@ -13,8 +13,11 @@ This month Mary heads into an alternative past with Mary Robinette Kowal's *[The
 ## Summary
 
 Title: *The Calculating Stars*
+
 Author: Mary Robinette Kowal 
+
 Published: July 2018,Tor Books
+
 Genre: Historical Fiction, Science Fiction
 
 <blockquote class="utl-blockquote--mary">
