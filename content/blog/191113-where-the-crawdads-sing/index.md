@@ -36,13 +36,13 @@ I was literally six pages from the end of the book when I realized I didn’t ac
 ### Jane's Favorite Quotes
 
 Pg 124
-> “And just at that second, the wind picked up, and thousands upon thousands of yellow sycamore leaves broke from their life support and streamed across the sky. Autumn leaves don’t fall; they fly. They take their time and wander on this, their only chance to soar. Reflecting sunlight, they swirled and sailed and fluttered on the wind drafts.”
+<blockquote class="utl-blockquote--jane">“And just at that second, the wind picked up, and thousands upon thousands of yellow sycamore leaves broke from their life support and streamed across the sky. Autumn leaves don’t fall; they fly. They take their time and wander on this, their only chance to soar. Reflecting sunlight, they swirled and sailed and fluttered on the wind drafts.”</blockquote>
 
 Pg 242
-> “Let’s face it, a lot of times love doesn’t work out. Yet even when it fails, it connects you to others and, in the end, that is all you have *the connections*.”
+<blockquote class="utl-blockquote--jane">“Let’s face it, a lot of times love doesn’t work out. Yet even when it fails, it connects you to others and, in the end, that is all you have *the connections*.”</blockquote>
 
 Pg 354
-> “She knew his favorite lagoons and paths through difficult quagmires; always following him at a safe distance. Sneaking about, stealing love. Never sharing it. You can’t get hurt when you love someone from the other side of an estuary.”
+<blockquote class="utl-blockquote--jane">“She knew his favorite lagoons and paths through difficult quagmires; always following him at a safe distance. Sneaking about, stealing love. Never sharing it. You can’t get hurt when you love someone from the other side of an estuary.”</blockquote>
 
 ---
 

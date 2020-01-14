@@ -79,7 +79,7 @@ I am so excited for the *Crescent City* series to begin, I'm thinking about taki
 
 Okay, I have to be honest. I’m mostly looking forward to this book because of this line in Tomi Adeyemi’s review of it:
 
-<blockquote>Picture Furiosa from Mad Max: Fury Road leading her own Pirates Of The Carribean Ship</blockquote>
+<blockquote class="utl-blockquote--lydia">Picture Furiosa from Mad Max: Fury Road leading her own Pirates Of The Carribean Ship</blockquote>
 
 Um, yes. I will take one of those, please. Is it February yet?
 

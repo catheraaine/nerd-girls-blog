@@ -1,3 +1,7 @@
 .utl-color {
   @include color-modifiers;
 }
+
+.utl-blockquote {
+  @include color-modifiers--blockquote;
+}

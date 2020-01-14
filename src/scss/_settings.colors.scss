@@ -49,6 +49,27 @@ $c-header-background: lighten($theme, 50%);
   @each $name, $hex in $personas {
     &--#{$name} {
       color: $hex;
+      border-color: $hex;
+
+      a {
+        &:link,
+        &:visited {
+          color: $hex;
+        }
+        &:hover,
+        &:active {
+          text-decoration: none;
+          color: $c-link--hover;
+        }
+      }
+    }
+  }
+}
+
+@mixin color-modifiers--blockquote {
+  @each $name, $hex in $personas {
+    &--#{$name} {
+      border-color: $hex;
 
       a {
         &:link,
