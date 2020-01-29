@@ -8,8 +8,7 @@ description: "As a book club for women, it feels inevitable that we gather toget
 ---
 
 ![A photo of Jo and Amy in the new Little Women film](little-women-012020.png)
-*Image via [Sony Pictures](https://www.sonypictures.com/)*
-
+<p class="image-caption">Image of Jo via <a href="https://www.sonypictures.com/">Sony Pictures</a></p>
 
 As a book club for women, it feels inevitable that we gather together and see the new film adaptation of Louisa May Alcott's [Little Women](https://www.goodreads.com/book/show/1934.Little_Women). We went one step further, however, and decided to refresh our memories with a reread of the novel. Well, does the classic story of growing up in Civil War America live up to our nostalgia? Is the new film an explicit adaptation, or is it reimagined for the social context of 2019? Read below to hear our opinions.
 

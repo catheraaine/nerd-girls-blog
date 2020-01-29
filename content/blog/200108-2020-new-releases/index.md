@@ -6,9 +6,9 @@ authorClass: "all"
 description: "I'm not one for New Year's resolutions, but every January I <i>do</i> find myself making lists of all the new releases I can't wait to get my hands on, and this year is no different! We’ve (impossibly) limited ourselves to up to two 2020 releases that have us waiting anxiously for release day: one new book or series, and one continuation of a series we love. What releases are you most excited about this year? Did any of these make your list? Let us know!"
 ---
 
-*Images in this article via [Goodreads](https://www.goodreads.com/)*
-
 I’m not one for New Year’s resolutions, but every January I *do* find myself making lists of all the new releases I can’t wait to get my hands on, and this year is no different! We’ve (impossibly) limited ourselves to up to two 2020 releases that have us waiting anxiously for release day: one new book or series, and one continuation of a series we love. What releases are you most excited about this year? Did any of these make your list? Let us know!
+
+<p class="image-caption">Images in this article via <a href="https://www.goodreads.com/">Goodreads</a></p>
 
 <h2 class="utl-color--jane">Jane</h2>
 

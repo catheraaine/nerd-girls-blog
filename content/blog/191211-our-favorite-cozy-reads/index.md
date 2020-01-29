@@ -6,9 +6,9 @@ authorClass: "all"
 description: "Okay, picture me: I'm sitting on a dark gray couch. I have my feet tucked underneath me with big wooly socks on, the kind with soft soles sewn on so they’re half house slipper, half socks. There's a soft crackle of fire as the pine smell slowly wafts in and out of my consciousness. Outside I can almost hear the wind, but mostly it’s just making the window panes creak every once in a while. I'm balancing a glass of dark crimson wine in my right hand, gripping a book by the lower spine in my left. The book I'm reading is…"
 ---
 
-*Images in this article via [Goodreads](https://www.goodreads.com/)*
-
 Okay, picture me: I’m sitting on a dark gray couch. I have my feet tucked underneath me with big wooly socks on, the kind with soft soles sewn on so they’re half house slipper, half socks. There’s a soft crackle of fire as the pine smell slowly wafts in and out of my consciousness. Outside I can almost hear the wind, but mostly it’s just making the window panes creak every once in a while. I’m balancing a glass of dark crimson wine in my right hand, gripping a book by the lower spine in my left. The book I’m reading is…
+
+<p class="image-caption">Images in this article via <a href="https://www.goodreads.com/">Goodreads</a></p>
 
 <h2 class="utl-color--jane">Jane</h2>
 
