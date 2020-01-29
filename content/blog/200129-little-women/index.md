@@ -18,7 +18,10 @@ As a book club for women, it feels inevitable that we gather together and see th
 
 ### 👓👓👓👓 3.5 / 5 Book | 👓👓👓👓👓 4.5/5 Film
 
-I was really excited about *Nocturna* and had been looking forward to its release for a while. The description of the novel as a Latinx-inspired, magic driven heist drew me in immediately! The beginning of the novel is promising, and the potential for the story world and magic system is definitely there, but ultimately the novel fell quite short of these early high expectations. In regard to plotting, solutions to problems seemed too neat and easy, and the magic is often overly convenient. Really though, it was the lack of consistent character development that I got stuck on. Character motivations were often murky, disjointed, or down right frustrating, and the unique and exciting world the novel is set in couldn’t make up for the lack of depth in a love story that really didn’t need to be there.
+As a few others have shared, I have a lot of nostalgic, warm feelings attached to this novel, and while it didn’t quite work the same way for me as an adult, I really enjoyed reconnecting with old favorites from a different perspective and will always appreciate what it meant to me as a young girl searching for stories about young girls.
+
+The movie though, I’m happy to say, was surprisingly wonderful. While there are always a few small things to pick nits over in a book to movie adaptation, <span class="utl-color--mary">[Gerwig's](https://www.imdb.com/name/nm1950086/)</span> updates to this childhood favorite felt fresh and engaging and direct. Specifically, the interweaving of a separate metanarrative about publishing and the ambiguities worked into the ending were welcome additions to a 2019 adaptation of this novel.
+
 
 <h2 class="utl-color--catherine">Catherine</h2>
 
@@ -28,7 +31,7 @@ Well, the book was disappointing. It's a morally pious and often preachy story t
 
 Lamenting about my distaste for this novel one day, a good friend mentioned, “without groundwork from writers like Louisa May Alcott, women's stories wouldn't have the chance to be what they are today.” He was absolutely right; the only reason we get more accurate and plentiful stories about women is because a few authors “sold their heroine into marriage” (to quote 2019 Jo March).
 
-I'm pleased to say the 2019 film adaptation is wonderful. So often the book is better than the movie; it’s a trope we bookish types know well. Surprisingly, [Greta](https://www.imdb.com/name/nm1950086/)’s script is fairly true to the novel. The same scenes happen, Marmie says a few lines word for word. Beth and Meg and Amy and Jo all feel like the same characters in the same story, and yet, the tone is wholly different. Thanks to just a few tweaks of language and a bit more context in the background (I won’t spoil it for you), the newest film version of “Little Women” is one of my favorite films of 2019.
+I'm pleased to say the 2019 film adaptation is wonderful. So often the book is better than the movie; it’s a trope we bookish types know well. Surprisingly, <span class="utl-color--catherine">[Gerwig's](https://www.imdb.com/name/nm1950086/)</span> script is fairly true to the novel. The same scenes happen, Marmie says a few lines word for word. Beth and Meg and Amy and Jo all feel like the same characters in the same story, and yet, the tone is wholly different. Thanks to just a few tweaks of language and a bit more context in the background (I won’t spoil it for you), the newest film version of “Little Women” is one of my favorite films of 2019.
 
 <h2 class="utl-color--lydia">Lydia</h2>
 
