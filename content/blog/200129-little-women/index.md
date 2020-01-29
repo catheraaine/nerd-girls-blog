@@ -14,15 +14,6 @@ As a book club for women, it feels inevitable that we gather together and see th
 
 **Warning, Here Be Spoilers.**
 
-<h2 class="utl-color--mary">Mary</h2>
-
-### 👓👓👓👓 3.5 / 5 Book | 👓👓👓👓👓 4.5/5 Film
-
-As a few others have shared, I have a lot of nostalgic, warm feelings attached to this novel, and while it didn’t quite work the same way for me as an adult, I really enjoyed reconnecting with old favorites from a different perspective and will always appreciate what it meant to me as a young girl searching for stories about young girls.
-
-The movie though, I’m happy to say, was surprisingly wonderful. While there are always a few small things to pick nits over in a book to movie adaptation, <span class="utl-color--mary">[Gerwig's](https://www.imdb.com/name/nm1950086/)</span> updates to this childhood favorite felt fresh and engaging and direct. Specifically, the interweaving of a separate metanarrative about publishing and the ambiguities worked into the ending were welcome additions to a 2019 adaptation of this novel.
-
-
 <h2 class="utl-color--catherine">Catherine</h2>
 
 ### 👓👓 2 / 5 Book | 👓👓👓👓👓 4.5/5 Film
