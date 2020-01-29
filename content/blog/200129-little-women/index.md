@@ -41,6 +41,14 @@ Ah, nostalgia. I read this book as a little girl, and remember loving it. As an 
 
 The movie, on the other hand, I loved. It had all the plot elements and was true to the original story, while at the same time being true to Alcott’s original vision for her “little women.” (My copy of the book had a thorough introduction that reviewed how she had hoped to have the March sisters’ stories end.) The structure of the movie enhanced the storytelling by giving context to the scenes in the book, and the ending…oh, the ending. It’s amazing, and I think if Louisa May Alcott were alive to watch it, she would love it as much as I.
 
+<h2 class="utl-color--mary">Mary</h2>
+
+### 👓👓👓👓 3.5 / 5 Book | 👓👓👓👓👓 4.5/5 Film
+
+As a few others have shared, I have a lot of nostalgic, warm feelings attached to this novel, and while it didn’t quite work the same way for me as an adult, I really enjoyed reconnecting with old favorites from a different perspective and will always appreciate what it meant to me as a young girl searching for stories about young girls.
+
+The movie though, I’m happy to say, was surprisingly wonderful. While there are always a few small things to pick nits over in a book to movie adaptation, <span class="utl-color--mary">[Gerwig's](https://www.imdb.com/name/nm1950086/)</span> updates to this childhood favorite felt fresh and engaging and direct. Specifically, the interweaving of a separate metanarrative about publishing and the ambiguities worked into the ending were welcome additions to a 2019 adaptation of this novel.
+
 ---
 
 *What were your thoughts about "Little Women"? Join the discussion on [Facebook](https://www.facebook.com/nerdgirlsbookclub) or Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).*
