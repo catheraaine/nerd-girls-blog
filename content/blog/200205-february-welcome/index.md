@@ -12,7 +12,7 @@ Oh, February. Spring will be here soon, separated from our frozen midwest dreams
 
 ![A cover of the beautiful, with the quote, "Trust in this important lesson I learned long ago: Rage is a moment. Regret is forever."](the-beautiful-022020.png)
 
-Please read along with us with our February book club pick, *The Beautiful* by Renée Ahdieh. As always join the discussion on [Facebook](https://www.facebook.com/nerdgirlsbookclub) and follow us on Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/)!
+Read along with our February book club pick, *The Beautiful* by Renée Ahdieh. As always join the discussion on [Facebook](https://www.facebook.com/nerdgirlsbookclub) and follow us on Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/)!
 
 From [Penguin Random House](https://www.penguinrandomhouse.com/books/551954/the-beautiful-by-renee-ahdieh/):
 
