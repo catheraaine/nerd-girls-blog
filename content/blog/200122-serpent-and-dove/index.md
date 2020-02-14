@@ -1,5 +1,5 @@
 ---
-title: "November Book Club Read: \"Serpent and Dove\""
+title: "January Book Club Read: \"Serpent and Dove\""
 date: "2020-01-22"
 authorName: "The Nerd Girls"
 authorClass: "all"
