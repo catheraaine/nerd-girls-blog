@@ -9,7 +9,7 @@ description: "Alix E. Harrow's \"The Ten Thousand Doors of January\" starts with
 ![A photo of The Ten Thousand Doors of January book cover](ten-thousand-doors.png)
 
 <blockquote class="utl-blockquote--elizabeth">
-"But you still know about Doors, don’t you? Because there are ten thousand stories about ten thousand Doors, and we know them as well as we know our names. They lead to Faerie, to Valhalla, Atlantis and Lemuria, Heaven and Hell, to all the directions a compass could never take you, to <i>elsewhere</i>."
+"But you still know about Doors, don’t you? Because there are ten thousand stories about ten thousand Doors, and we know them as well as we know our names. They lead to Faerie, to Valhalla, Atlantis and Lemuria, Heaven and Hell, to all the directions a compass could never take you, to <em>elsewhere</em>."
 </blockquote>
 
 Alix E. Harrow's <span class="utl-color--elizabeth">*[The Ten Thousand Doors of January](https://www.goodreads.com/book/show/43521657-the-ten-thousand-doors-of-january)*</span> starts with a girl, a book, and a little magic. Beth takes us on a journey through ten thousand doors. Heads up, we're going to be talking spoilers.
