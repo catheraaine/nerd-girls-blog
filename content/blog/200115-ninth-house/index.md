@@ -43,4 +43,4 @@ I'm giving *Ninth House* a full 5/5, a rare thing.
 
 ---
 
-*What did you Think of "The Ninth House"? Join the discussion on [Facebook](https://www.facebook.com/groups/566114107531110/) or Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).*
+*What did you think of "The Ninth House"? Join the discussion on [Facebook](https://www.facebook.com/groups/566114107531110/) or Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).*

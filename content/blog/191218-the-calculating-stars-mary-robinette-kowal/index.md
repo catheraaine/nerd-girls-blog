@@ -54,4 +54,4 @@ I can't wait to start the next book in the series, which came out last year! The
 
 ---
 
-*What did you Think of "The Calculating Stars"? Join the discussion on [Facebook](https://www.facebook.com/groups/566114107531110/) or Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).*
+*What did you think of "The Calculating Stars"? Join the discussion on [Facebook](https://www.facebook.com/groups/566114107531110/) or Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).*
