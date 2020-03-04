@@ -1,14 +1,14 @@
 ---
-title: "February's Book: \"The Beautiful\" by Renée Ahdieh"
+title: "February 2020 Welcome and Book Club Pick"
 date: "2020-02-05"
-authorName: "The Nerd Girls"
-authorClass: "all"
+authorName: "Catherine"
+authorClass: "catherine"
 description: "This month's read is all about vampires."
 ---
 
 Oh, February. Spring will be here soon, separated from our frozen midwest dreams by at least another month of dreary winter. Speaking of cold bodies, this month's mini-reviews are for a lusty vampire read, *[The Beautiful](https://www.goodreads.com/book/show/42265183-the-beautiful)*. Before that, though, we'll discuss our Favorite Female Friendships for Galentines, and Beth will reflect on Alix E. Harrow's *[The Ten Thousand Doors of January](https://www.goodreads.com/book/show/43521657-the-ten-thousand-doors-of-january)*.
 
-## February’s Book Club Pick
+## February Book Club Pick
 
 ![A cover of the beautiful, with the quote, "Trust in this important lesson I learned long ago: Rage is a moment. Regret is forever."](the-beautiful-022020.png)
 
