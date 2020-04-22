@@ -14,6 +14,8 @@ Read along with our April book club pick, *The Grace Year*, and as always, join 
 
 ## April Book Club Pick
 
+![A cover of the grace year, with the quote, "It feels like freedom, but we know it's a lie. This is how they break us. They take everything away, our very dignity, and anything we get in return feels like a gift."](the-grace-year.png)
+
 From [Macmillan](https://us.macmillan.com/books/9781250145444)
 
 <blockquote>

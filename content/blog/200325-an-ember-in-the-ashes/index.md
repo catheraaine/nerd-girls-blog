@@ -12,7 +12,7 @@ description: "\"An Ember in the Ashes\" by Sabaa Tahir is one of the few books e
 
 **Warning, Here Be Spoilers.**
 
-<h2 class="utl-color--elizabeth">Beth</h2>
+<h2 class="utl-color--jane">Jane</h2>
 
 ### 👓👓👓👓👓 5 / 5
 
