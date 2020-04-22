@@ -44,7 +44,7 @@ One of the women at our book club meetup mentioned that she had originally thoug
 
 I've got minor complaints about clarity of writing, especially with the passing of time, but those are minor. This one is a 4/5 for me.
 
-**Trope Warning**: A fairly straightforward <span class="utl-color--catherine">[Florence Nightingale](https://tvtropes.org/pmwiki/pmwiki.php/Main/FlorenceNightingaleEffecte)</span> dressed up to be Stockholm Syndrome.
+**Trope Warning**: A fairly straightforward <span class="utl-color--catherine">[Florence Nightingale](https://tvtropes.org/pmwiki/pmwiki.php/Main/FlorenceNightingaleEffect)</span> dressed up to be Stockholm Syndrome.
 
 <h2 class="utl-color--lydia">Lydia</h2>
 
