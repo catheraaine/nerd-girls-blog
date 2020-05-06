@@ -56,4 +56,4 @@ I did enjoy the growth of some of the characters, and the relationships we saw b
 
 ---
 
-*What were your thoughts about "The Grace Year"? Join the discussion on [Facebook](https://www.facebook.com/nerdgirlsbookclub) or Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).*
+*What were your thoughts about "The Grace Year?" Join the discussion on [Facebook](https://www.facebook.com/nerdgirlsbookclub) or Instagram [@nerdgirlsbookclub](https://www.instagram.com/nerdgirlsbookclub/).*
