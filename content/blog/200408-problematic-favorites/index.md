@@ -38,7 +38,7 @@ And yes, before you ask, I’m still going to watch the Amazon show because that
 
 !["the hobbit" cover](the-hobbit.jpg)
 
-### <span class="utl-color--catherine">[*The Hobbit*]() by J.R.R. Tolkein</span>
+### <span class="utl-color--catherine">[*The Hobbit*](https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again) by J.R.R. Tolkein</span>
 
 J.R.R. Tolkein's [The Hobbit](https://www.goodreads.com/book/show/15329.The_Hobbit), and of course the entire [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) trilogy, is necessary for an epic fantasy fan like me. You'd be hard pressed to find any piece of fantasy media in 2020 that did not take at least a small piece of influence Tolkein's perspective of a Norse world of Elves, Orcs, Dwarves, Wizards, and more. 
 
