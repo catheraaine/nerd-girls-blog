@@ -14,7 +14,7 @@ This month we read *[The Grace Year](https://www.goodreads.com/book/show/4326352
 
 <h2 class="utl-color--jane">Jane</h2>
 
-### 👓👓👓👓👓 5 / 5
+### 👓 👓 👓 👓 👓 5 / 5
 
 This is my favorite book we have read for book club so far. I really, really loved *The Grace Year*. I think the predominant reason for that is that about ⅓ of the way through the book, I kind of had an idea of where the book was going. I guessed about how Tierney would relate to the other Grace Year girls, what she would discover about herself and what she was supposed to learn from her year in the wilderness. AND THEN I WAS SO INCREDIBLY WRONG. Just absolutely wrong. And kept being wrong.
 
@@ -24,7 +24,7 @@ DON’T READ ANY SPOILERS (hint: below are spoilers). But do read this book. Now
 
 <h2 class="utl-color--elizabeth">Beth</h2>
 
-### 👓👓👓👓👓 4 / 5
+### 👓 👓 👓 👓 4 / 5
 
 I found *The Grace Year* to be a quick, compelling read. With quotes from both *A Handmaid’s Tale* and *Lord of the Flies* to start things off, author Kim Liggett makes no secret of her influences. I also felt echoes of other dystopian works such as *The Hunger Games.* Liggett does a good job of maintaining tension with her strong use of language, relatively short chapters, and chapter endings which are often full of strong emotion and drove me to keep turning pages. There were some great twists and surprises I appreciated more on a second reading.
 
@@ -32,7 +32,7 @@ I did encounter some clarity issues, first in regards to space—I couldn’t qu
 
 <h2 class="utl-color--catherine">Catherine</h2>
 
-### 👓👓👓👓👓 4 / 5
+### 👓 👓 👓 👓 4 / 5
 
 Wow. Just, wow.
 
@@ -48,7 +48,7 @@ I've got minor complaints about clarity of writing, especially with the passing 
 
 <h2 class="utl-color--lydia">Lydia</h2>
 
-### 👓👓👓👓👓 4 / 5
+### 👓 👓 👓 👓 4 / 5
 
 I read *The Grace Year* in a single sitting; it was just that enthralling. But I can’t really explain why! There were issues with pacing—sometimes I thought days had passed in story only to find out it had been months—and I had a hard time getting a sense of the setting, which was actually really important for the plot. I didn’t love the romantic relationship. But despite that, I was really engaged in the story.
 
