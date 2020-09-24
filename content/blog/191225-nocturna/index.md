@@ -6,6 +6,8 @@ authorClass: "all"
 description: "This month, we read \"Nocturna\" by Maya Motayne, a Latinx, magic-driven heist story that, despite a promising premise, did not live up to the Nerd Girls’ hopes. Read our individual thoughts on the book below."
 ---
 
+
+
 ![A photo of the cover of Nocturna](nocturna-122019.png)
 
 This month, we read [*Nocturna* (*A Forgery of Magic* #1)](https://www.goodreads.com/book/show/35561260-nocturna) by Maya Motayne, a Latinx, magic-driven heist story that, despite a promising premise, did not live up to the Nerd Girls’ hopes. Read our individual thoughts on the book below.
